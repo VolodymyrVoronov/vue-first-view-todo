@@ -1,6 +1,6 @@
 ###### Simple todo list
 
-<!-- Online preview: [Simple todo list](https://volodymyrvoronov.github.io/bitcoin-chart/ "Simple todo list") -->
+Online preview: [Simple todo list](https://volodymyrvoronov.github.io/vue-first-view-todo/ "Simple todo list")
 
 ## Project setup
 
